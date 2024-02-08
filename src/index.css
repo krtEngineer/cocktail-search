@@ -285,3 +285,7 @@ PROJECT CSS
   margin: 0 auto;
   padding: 5rem 2rem;
 }
+
+.loading {
+  margin: 0 auto;
+}
